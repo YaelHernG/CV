@@ -1,5 +1,5 @@
 # Curriculum vitae
-View at CV(YaelH_cv.pdf)
+View at [CV](https://github.com/YaelHernG/CV.git)
 
 Part of the Genomic Sciences degree program at the UNAM in the ENES Juriquilla.
 
