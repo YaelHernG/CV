@@ -1,10 +1,7 @@
 # Curriculum vitae
-View at [CV pdf](EveliaCoss_cv.pdf).
+View at [CV pdf](Make_yourCV-main/YaelH_cv.pdf).
 
-Postdoctoral Fellowship at LIIGH-UNAM. I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
-Founding member of "VieRnes de Bioinformatica en el LIIGH" (bioinformatics fridays). Member of the JAGUAR Project, R-ladies Morelia, RIABIO, LupusRGMX, CDSB Mexico and ISCB RSG-Mexico. 
-
-///
-
-PostDoc en el LIIGH-UNAM. Estoy interesado en regulación génica, lncRNAs, enfermedades autoinmunes, evolución y bioinformática.
-Miembro fundador de "VieRnes de Bioinformatica en el LIIGH" (viernes de bioinformática). Miembro del Proyecto JAGUAR, R-ladies Morelia, RIABIO, LupusRGMX, CDSB México e ISCB RSG-México. 
+Part of the Genomic Sciences degree program at the UNAM in the ENES
+Juriquilla.
+I am interested in systems biology to understand molecular systems linked to
+immunological processes. | LIIGH-Systems Biology EVolutionary Lab
