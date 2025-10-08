@@ -119,16 +119,9 @@ CV %<>% print_section('research_positions')
 
 <br> <br> <br>
 
-
-```{r}
-#CV %<>% print_section('teaching_positions')
-```
-
-
 ```{r}
 #CV %<>% print_section('data_science_writings')
 ```
-
 
 ```{r}
 #CV %<>% print_section('academic_articles')
@@ -145,7 +138,6 @@ CV %<>% print_section('talks_and_posters')
 ```{r}
 CV %<>% print_section('course_attendances')
 ```
-
 
 ```{r}
 #CV %<>% print_section('science_communication')
