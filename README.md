@@ -7,7 +7,6 @@ Research) under Dra. Mariana Gomez-Schiavon supervision.
 
 View at [CV](https://github.com/YaelHernG/CV/blob/928c0524e1efafc2f025508554188506d956dfb2/YaelH_cv.pdf)
 
->>>>>>> 31190c28079f508ed2a75ff2ec8165f0a2219cf2
 
 
 
