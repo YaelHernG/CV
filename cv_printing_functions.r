@@ -248,7 +248,7 @@ print_contact_info <- function(cv){
 print_programming_languages <- function(cv){
   glue::glue_data(
     cv$programming_languages,
-    "<b>Expertise:</b> {expertise} <br><b>Familiarity:</b> {familiarity}"
+    "{expertise}, {familiarity}"
   ) %>% print()
 
   invisible(cv)

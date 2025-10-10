@@ -80,7 +80,7 @@ CV %>% print_programming_languages()
 
 <br>
 
-## Languages {#skills}
+## Languages
 
 ```{r}
 CV %>% print_languages()

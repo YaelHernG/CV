@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Paquetes necesarios:
 install.packages("rmarkdown")
 # pagedown
@@ -16,7 +16,6 @@ devtools::install_github("nstrayer/datadrivencv", force = TRUE)
 # Curso CV
 # https://github.com/mpadilla905/curso-cv/tree/main/slides
 
-=======
 # Paquetes necesarios:
 install.packages("rmarkdown")
 # pagedown
@@ -28,10 +27,9 @@ devtools::install_github("nstrayer/datadrivencv")
 
 # https://github.com/nstrayer/datadrivencv
 
-# Informaciond de como realizarlo de acuerdo con Monica Padilla
+# Informacion de como realizarlo de acuerdo con Monica Padilla
 # https://github.com/mpadilla905/mpadilla905.github.io/tree/master
 
 # Curso CV
 # https://github.com/mpadilla905/curso-cv/tree/main/slides
 
->>>>>>> 31190c28079f508ed2a75ff2ec8165f0a2219cf2
